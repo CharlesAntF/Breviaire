@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-this is one code line
-another code line
-=======
 one code line
-this is another code line
->>>>>>> e2ff86328042cc00fe6453c8cead940807b6cecb
+another code line
